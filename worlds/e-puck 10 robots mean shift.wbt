@@ -1,0 +1,173 @@
+#VRML_SIM R2021a utf8
+WorldInfo {
+  coordinateSystem "NUE"
+}
+Viewpoint {
+  orientation -0.9999335011502247 0.004779028167183063 0.010495435542696486 1.4843725811735908
+  position -0.012325122622988263 3.347008679734644 0.34498681375154505
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+  luminosity 0
+}
+E-puck {
+  hidden position_0_0 4632.985249396116
+  hidden position_0_1 13600.79616199522
+  hidden rotation_1 1 0 0 4.0055073024186605
+  hidden rotation_2 -1 0 0 3.983157258595109
+  translation -0.374036 -0.000139394 -0.100177
+  rotation 8.190951017037821e-06 0.9999999998414941 -1.5808853625090916e-05 -0.871289084828879
+  controller "mean_shift"
+  controllerArgs [
+    ""
+  ]
+}
+E-puck {
+  hidden position_0_0 4974.184879596338
+  hidden position_0_1 13444.418545770322
+  hidden rotation_1 1 0 0 2.097883689894639
+  hidden rotation_2 1 0 0 1.5980115939926076
+  translation 0.647812 -0.000152541 -0.277333
+  rotation -1.0929247377356528e-06 0.9999999976081881 6.915510901849059e-05 0.641056637601177
+  name "e-puck(1)"
+  controller "mean_shift"
+  controllerArgs [
+    ""
+  ]
+}
+E-puck {
+  hidden position_0_0 4566.6910765251605
+  hidden position_0_1 13591.867757023942
+  hidden rotation_1 -1 0 0 5.098543512780715
+  hidden rotation_2 1 0 0 4.945247712683614
+  translation -0.8205 -0.000140536 0.517246
+  rotation -1.0563252617951413e-07 0.9999999999999921 -6.933235248099156e-08 -0.808405135901315
+  name "e-puck(2)"
+  controller "mean_shift"
+  controllerArgs [
+    ""
+  ]
+}
+E-puck {
+  hidden position_0_0 4974.184879596338
+  hidden position_0_1 13444.418545770322
+  hidden rotation_1 1 0 0 2.097883689894639
+  hidden rotation_2 1 0 0 1.5980115939926076
+  translation 0.0253565 -0.00017429 -0.811112
+  rotation -1.0929247377356528e-06 0.9999999976081881 6.915510901849059e-05 0.641056637601177
+  name "e-puck(3)"
+  controller "mean_shift"
+  controllerArgs [
+    ""
+  ]
+}
+E-puck {
+  hidden position_0_0 4974.184879596338
+  hidden position_0_1 13444.418545770322
+  hidden rotation_1 1 0 0 2.097883689894639
+  hidden rotation_2 1 0 0 1.5980115939926076
+  translation 0.399535 -0.000183187 0.843548
+  rotation -1.6354899994332145e-05 0.9999999996534459 2.0630699992850346e-05 1.95005
+  name "e-puck(4)"
+  controller "mean_shift"
+  controllerArgs [
+    ""
+  ]
+}
+E-puck {
+  hidden position_0_0 4974.184879596338
+  hidden position_0_1 13444.418545770322
+  hidden rotation_1 1 0 0 2.097883689894639
+  hidden rotation_2 1 0 0 1.5980115939926076
+  translation 0.21751 -0.000182773 -0.201979
+  rotation -1.75082999947974e-05 0.9999999997028497 1.696349999495929e-05 2.21185
+  name "e-puck(6)"
+  controller "mean_shift"
+  controllerArgs [
+    ""
+  ]
+}
+E-puck {
+  hidden position_0_0 4974.184879596338
+  hidden position_0_1 13444.418545770322
+  hidden rotation_1 1 0 0 2.097883689894639
+  hidden rotation_2 1 0 0 1.5980115939926076
+  translation -0.905073 -0.000230656 0.109295
+  rotation -1.851879999507377e-05 0.9999999997339877 1.3750599996342171e-05 2.47365
+  name "e-puck(8)"
+  controller "mean_shift"
+  controllerArgs [
+    ""
+  ]
+}
+E-puck {
+  hidden position_0_0 4974.184879596338
+  hidden position_0_1 13444.418545770322
+  hidden rotation_1 1 0 0 2.097883689894639
+  hidden rotation_2 1 0 0 1.5980115939926076
+  translation -0.187773 -0.000208018 0.657862
+  rotation -2.2957799993948413e-05 0.999999999736404 -3.62842999904356e-07 -2.5005353071795864
+  name "e-puck(7)"
+  controller "mean_shift"
+  controllerArgs [
+    ""
+  ]
+}
+E-puck {
+  hidden position_0_0 4974.184879596338
+  hidden position_0_1 13444.418545770322
+  hidden rotation_1 1 0 0 2.097883689894639
+  hidden rotation_2 1 0 0 1.5980115939926076
+  translation 0.759884 -0.000148945 -0.847628
+  rotation -2.031459999515153e-05 0.9999999997613307 8.040889998080886e-06 2.99725
+  name "e-puck(5)"
+  controller "mean_shift"
+  controllerArgs [
+    ""
+  ]
+}
+E-puck {
+  hidden position_0_0 4974.184879596338
+  hidden position_0_1 13444.418545770322
+  hidden rotation_1 1 0 0 2.097883689894639
+  hidden rotation_2 1 0 0 1.5980115939926076
+  translation 0.709915 -0.000173692 0.886608
+  rotation -2.6443699989022127e-05 0.9999999995848587 -1.1446099995248252e-05 -1.7151353071795858
+  name "e-puck(9)"
+  controller "mean_shift"
+  controllerArgs [
+    ""
+  ]
+}
+RectangleArena {
+  floorSize 2 2
+  wallThickness 0.02
+}
+PointLight {
+  attenuation 0 0 1
+  color 0.8 0 0
+  intensity 0.1
+  location 0.75 0.01 0.25
+}
+PointLight {
+  attenuation 0 0 1
+  color 0.8 0 0
+  intensity 0.1
+  location -0.75 0.01 -0.55
+}
+PointLight {
+  attenuation 0 0 1
+  color 0.8 0 0
+  intensity 0.1
+  location 0 0.01 0.1
+}
+WoodenBox {
+  translation -0.4 0.15 0.84
+  size 0.3 0.3 0.3
+}
+WoodenBox {
+  translation 0.38 0.15 -0.43
+  name "wooden box(1)"
+  size 0.3 0.3 0.3
+}
