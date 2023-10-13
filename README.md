@@ -3,6 +3,7 @@
 This project simulates a swarm of e-puck robots that move randomly in a 2D world created in Webots. The robots are programmed to explore the environment until they find their designated goal points, which are represented by LEDs placed on the ground. The world contains obstacles that the robots must navigate around to reach their goals.
 
 ![Simulation Screenshot](Screenshots/1robot_initial%20state.png)
+
 _Above: A screenshot of the e-puck robots in the Webots simulation environment._
 
 ## Installation and Setup
